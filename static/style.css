@@ -4,10 +4,33 @@ body, html {
 	background-color: black;
 }
 
+body {
+	font-family: 'Nanum Gothic', sans-serif;
+}
+
 .startup {
 	background-image: url(background.jpg);
 	background-position: center;
 	background-size: cover;
 	background-repeat: no-repeat;
 	height: 100%;
+}
+
+h1 {
+	color: rgba(255,255,255,0.75);
+	font-size: 2rem;
+}
+
+.big-button {
+	padding: 2rem 2rem;
+}
+
+.btn-primary {
+  	text-transform: uppercase;
+}
+
+.btn-primary:hover {
+  background-color: #ee4b08;
+  border-color: #ee4b08;
+  cursor: pointer;
 }
