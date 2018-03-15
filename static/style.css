@@ -29,10 +29,13 @@ h1 {
 
 .btn-primary {
   	text-transform: uppercase;
+  	border-radius: 250px;
+  	background-color: #3F6B86;
+  	border-color: #3F6B86;
 }
 
 .btn-primary:hover {
-  background-color: #ee4b08;
-  border-color: #ee4b08;
+  background-color: #083396;
+  border-color: #083396;
   cursor: pointer;
 }
