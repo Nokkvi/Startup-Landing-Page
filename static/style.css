@@ -1,0 +1,13 @@
+body, html {
+	height: 100%;
+	width: 100%;
+	background-color: black;
+}
+
+.startup {
+	background-image: url(background.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+}
